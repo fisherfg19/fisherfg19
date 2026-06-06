@@ -91,9 +91,3 @@ Passionate about navigating the intersection of AI, computer science, and global
 
 [![Website](https://img.shields.io/badge/Website-coming_soon-555?style=flat-square&logo=googlechrome&logoColor=white)](#) <!-- placeholder -->
 [![GitHub](https://img.shields.io/badge/GitHub-fisherfg19-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fisherfg19)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fisherfg19&show_icons=true&hide_border=true&hide=contribs&card_width=420&title_color=666&text_color=888&icon_color=666&bg_color=00000000" alt="GitHub stats" />
-</p>
