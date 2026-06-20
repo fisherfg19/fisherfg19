@@ -14,7 +14,7 @@
 
 I'm Jiarui Zhao, an undergraduate student at Zhejiang University and a Morningside Cultural China Scholar.
 
-Passionate about navigating the intersection of AI, computer science, and global cultures, I consider myself a digital flâneur of sorts. Learn more about my journey [here]().
+Passionate about navigating the intersection of AI, computer science, and global cultures, I consider myself a digital flâneur of sorts. Learn more about my journey [here](https://aphrixzjr.github.io/).
 
 ---
 
